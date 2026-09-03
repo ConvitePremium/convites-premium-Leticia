@@ -31,7 +31,7 @@ window.CONFIG = {
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
     numero: "5592985820044",
-    mensagem: "Olá! Confirmo minha presença no aniversário da Letícia."
+    mensagem: "Olá! Confirmo minha presença no seu aniversário Letícia."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
