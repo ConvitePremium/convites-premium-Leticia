@@ -67,10 +67,10 @@ window.CONFIG = {
   // cor:                 cor principal (barra do navegador mobile, acentos).
   // corBotaoVoltar:      fundo do botão "Voltar" (tela de presentes).
   // corTextoBotaoVoltar: texto do botão "Voltar".
-  tema: {
-    cor: "#f6c1cd",
-    corBotaoVoltar: "rgba(255,255,255,.76)",
-    corTextoBotaoVoltar: "#6b3a21"
+  botoesVoltar: {
+    presentes: { mostrarTexto:true, posicao: {"left":27.62333204373003,"top":92.17895585196939,"width":43.7188467202476,"height":4.734171859966461} },
+    dresscode: { mostrarTexto:false, posicao: {"left":23.124920127795527,"top":87.6910244081798,"width":52.1022457817492,"height":5.539699057703945} },
+    manual: { mostrarTexto:false, posicao: {"left":23.942814621605432,"top":85.50459932202867,"width":51.07986596445687,"height":6.345219122089362} }
   },
 
 
@@ -88,11 +88,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:25.449686064098174, top:60.466030655199084, width:19.64355312204473, height:11.449252034014982 },
-        map: { left:55.00868653749942, top:60.12078059785067, width:19.292465283626143, height:11.399863780795407 },
-        gift: { left:25.56607738805926, top:76.10537095759099, width:19.567092651757186, height:11.52034966267883 },
-        dress: { left:25.56607738805926, top:76.10537095759099, width:19.567092651757186, height:11.52034966267883 },
-        manual: { left:54.19227547112636, top:76.22044399828745, width:19.567092651757186, height:11.52034966267883 }
+        confirm: { left:18.906545713658875, top:59.89064350294122, width:14.736217359265176, height:9.723125695282338 },
+        map: { left:42.74031593047067, top:59.77555269625107, width:14.180644197364163, height:10.018974123172601 },
+        gift: { left:65.84722130778769, top:59.6496583629358, width:14.250801842052713, height:10.024369405339094 },
+        dress: { left:30.064489303993767, top:72.42298975775327, width:14.659741288937695, height:9.679145893494614 },
+        manual: { left:55.01015436489633, top:72.53804523942925, width:14.250801842052713, height:9.564081632308397 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
