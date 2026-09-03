@@ -67,10 +67,10 @@ window.CONFIG = {
   // cor:                 cor principal (barra do navegador mobile, acentos).
   // corBotaoVoltar:      fundo do botão "Voltar" (tela de presentes).
   // corTextoBotaoVoltar: texto do botão "Voltar".
-  botoesVoltar: {
-    presentes: { mostrarTexto:true, posicao: {"left":27.62333204373003,"top":92.17895585196939,"width":43.7188467202476,"height":4.734171859966461} },
-    dresscode: { mostrarTexto:false, posicao: {"left":23.124920127795527,"top":87.6910244081798,"width":52.1022457817492,"height":5.539699057703945} },
-    manual: { mostrarTexto:false, posicao: {"left":23.942814621605432,"top":85.50459932202867,"width":51.07986596445687,"height":6.345219122089362} }
+  tema: {
+    cor: "#f6c1cd",
+    corBotaoVoltar: "rgba(255,255,255,.76)",
+    corTextoBotaoVoltar: "#6b3a21"
   },
 
 
@@ -78,8 +78,9 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:true, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
-    contagem: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":18.77316605930511,"height":7.956272420125552} }
+    presentes: { mostrarTexto:true, posicao: {"left":27.62333204373003,"top":92.17895585196939,"width":43.7188467202476,"height":4.734171859966461} },
+    dresscode: { mostrarTexto:false, posicao: {"left":23.124920127795527,"top":87.6910244081798,"width":52.1022457817492,"height":5.539699057703945} },
+    manual: { mostrarTexto:false, posicao: {"left":23.942814621605432,"top":85.50459932202867,"width":51.07986596445687,"height":6.345219122089362} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
