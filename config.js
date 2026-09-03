@@ -79,7 +79,7 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:true, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
-    dresscode: { mostrarTexto:false, posicao: {"left":22.511495357428114,"top":88.03625011490183,"width":53.1246099990016,"height":5.424626017007491} },
+    dresscode: { mostrarTexto:true, posicao: {"left":4.722348617212461,"top":1.3849225695484222,"width":25.111836686301913,"height":7.495975867584617} },
     manual: { mostrarTexto:false, posicao: {"left":24.14728434504792,"top":85.73474979317669,"width":49.85304762380191,"height":5.884929154181106} }
   },
 
@@ -89,11 +89,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:18.906545713658875, top:59.89064350294122, width:14.736217359265176, height:9.723125695282338 },
-        map: { left:42.74031593047067, top:59.77555269625107, width:14.180644197364163, height:10.018974123172601 },
-        gift: { left:65.84722130778769, top:59.6496583629358, width:14.250801842052713, height:10.024369405339094 },
-        dress: { left:30.064489303993767, top:72.42298975775327, width:14.659741288937695, height:9.679145893494614 },
-        manual: { left:55.01015436489633, top:72.53804523942925, width:14.250801842052713, height:9.564081632308397 }
+        confirm: { left:19.92890993091127, top:59.31526951994871, width:14.736217359265176, height:9.723125695282338 },
+        map: { left:43.14925537735566, top:58.85495081165896, width:14.180644197364163, height:10.018974123172601 },
+        gift: { left:66.25617635471261, top:58.9592025597366, width:14.250801842052713, height:10.024369405339094 },
+        dress: { left:30.882383797803673, top:71.84761577476077, width:14.659741288937695, height:9.679145893494614 },
+        manual: { left:55.419093811781316, top:71.61744335483715, width:14.250801842052713, height:9.564081632308397 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
