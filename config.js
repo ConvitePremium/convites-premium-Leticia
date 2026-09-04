@@ -79,7 +79,7 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:true, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
-    dresscode: { mostrarTexto:true, posicao: {"left":4.722348617212461,"top":1.3849225695484222,"width":25.111836686301913,"height":7.495975867584617} },
+    dresscode: { mostrarTexto:false, posicao: {"left":25.783057732627796,"top":83.43325386120665,"width":48.2172586361821,"height":5.769851175010142} },
     manual: { mostrarTexto:false, posicao: {"left":24.14728434504792,"top":85.73474979317669,"width":49.85304762380191,"height":5.884929154181106} }
   },
 
